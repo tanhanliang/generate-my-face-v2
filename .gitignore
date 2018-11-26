@@ -1,0 +1,6 @@
+.git/
+.ipynb_checkpoints/
+__pycache__/
+.gitignore.swo
+.gitignore.swp
+saved_model/
