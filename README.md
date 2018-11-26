@@ -35,4 +35,4 @@ Steps:
 
 Note: If you want to decrease the size of the image to say, 64x64 pixels, you have to remove layers in the Autoencoder class, in began.py, to keep the size of the inner representation of the image constant at 8x8.
 
-It is nicer to run the code in `training.py` in a Jupyter Notebook, so that you can visualise the images generated using the `IPython.core.display.display()` function.
+Finally, it is nicer to run the code in `training.py` in a Jupyter Notebook, so that you can visualise the images generated using the `IPython.core.display.display()` function.
