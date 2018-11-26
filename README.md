@@ -1,5 +1,5 @@
 # generate-my-face-v2
-This is another attempt at implementing a Boundary Equilibrium Generative Adversarial Network, this time in Pytorch rather than Keras (which was too high level for this). Below are the best images that I managed to create, and some entertaining gifs.
+This is another attempt at implementing a Boundary Equilibrium Generative Adversarial Network, this time in Pytorch rather than Keras (which was too high level for this). Below are the best images for different training set sizes that I managed to create, and some entertaining gifs.
 
 Generated with 180 image dataset:
 
